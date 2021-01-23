@@ -1,0 +1,15 @@
+.list {
+  margin-bottom: 20px;
+}
+
+.toDo {
+  font-size: 22px;
+}
+
+.toDo__button {
+  margin-left: 5px;
+  cursor: pointer;
+  background-color: transparent;;
+  border:none;
+  display: inline-block;
+}
